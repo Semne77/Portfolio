@@ -1,5 +1,7 @@
 # Connect Four - Python Implementation  
 
+![Connect Four](Connect_4_Image.jpg)
+
 ## Author  
 Semyon Tsyrenov  
 
