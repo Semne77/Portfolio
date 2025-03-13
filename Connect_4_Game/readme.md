@@ -1,6 +1,6 @@
 # Connect Four - Python Implementation  
 
-![Connect Four](Connect_4_image.jpg)
+![Connect Four]([https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Connect_Four_Board_and_Box.jpg/640px-Connect_Four_Board_and_Box.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FHasbro-A5640-Connect-4-Game%2Fdp%2FB00D8STBHY&psig=AOvVaw1lQFIkhjWdAP_vGx4u-xY0&ust=1741925554725000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDt38OYhowDFQAAAAAdAAAAABAE))
 
 ## Author  
 Semyon Tsyrenov  
