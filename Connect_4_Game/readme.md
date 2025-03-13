@@ -1,6 +1,6 @@
 # Connect Four - Python Implementation  
 
-![Connect Four](Connect_4_Image.jpg)
+![Connect Four](Connect_4_Game/Connect_4_Image.jpg)
 
 ## Author  
 Semyon Tsyrenov  
